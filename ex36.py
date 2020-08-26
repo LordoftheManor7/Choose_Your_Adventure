@@ -1,3 +1,4 @@
+#compatible with Python3.7 and up
 from sys import exit
 
 first_choice = ['door 1', 'door 2', 'door 3']
